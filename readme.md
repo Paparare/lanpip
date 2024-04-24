@@ -4,7 +4,9 @@
 
 Please see conference schedule [here](https://whova.com/embedded/session/JdUqZg58y9wxvEuVs1WYY-uApHwLrn21wQR8JWsY00A%3D/3713585/?widget=primary). 
 
-LanPIP prototype 👉
+---
+
+**LanPIP prototype** 👉
 [Visit the webpage](https://opsteam11.com/)
 
 Code for LanPIP prototype is coming....
