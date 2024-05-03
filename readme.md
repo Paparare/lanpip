@@ -6,12 +6,12 @@ Please see conference schedule [here](https://whova.com/embedded/session/JdUqZg5
 
 ---
 
-**LanPIP prototype** 👉
-[Visit the webpage](https://opsteam11.com/)
+## **LanPIP prototype** 👉 [Visit the webpage](https://opsteam11.com/)
+
 > username: `admin`
 >
 > password: `123456`
 
-Warning: User information is not isolated between multiple users with the same username accesses. Please be aware of unintended information overlap and potential data leakage.
+<ins> **Warning**: User information is not isolated between multiple users with the same username. Please be aware of unintended information overlap and potential data leakage.</ins>
 
 Code for LanPIP prototype is coming....
